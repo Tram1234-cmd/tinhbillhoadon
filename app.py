@@ -20,6 +20,8 @@ menu = {
        "Cánh gà chiên mắm": 75000,
        "Lẩu cá diêu hồng": 200000,
        "Lẩu Thái hải sản": 300000,
+       "Dokki": 150000,
+       "Lẩu bò": 300000,
   
    },
 
