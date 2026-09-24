@@ -20,7 +20,9 @@ menu = {
        "Cánh gà chiên mắm": 75000,
        "Lẩu cá diêu hồng": 200000,
        "Lẩu Thái hải sản": 300000,
+  
    },
+
    "Thức uống": {
        "Coca Cola": 20000,
        "Trà Đào Cam Sả": 35000,
@@ -30,6 +32,7 @@ menu = {
        "Nước ép cam": 40000,
        "Mojito chanh dây": 55000,
        "Bia Heineken": 30000,
+       "Rau Ma Mix": 39000,
    },
 }
  
